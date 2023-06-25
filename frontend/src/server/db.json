@@ -1,0 +1,280 @@
+{
+  "doctors": [
+    {
+      "email": "claudiacosta@example.com",
+      "id": "angrytiger705",
+      "address": "Av. Las Perlas 7760",
+      "firstName": "Claudia",
+      "lastName": "Costa",
+      "phone": "932946324"
+    },
+    {
+      "email": "mikael.rantala@example.com",
+      "id": "sadsnake261",
+      "address": "Calle Los Naranjos 3725",
+      "firstName": "Mikael",
+      "lastName": "Rantala",
+      "phone": "904142501"
+    },
+    {
+      "email": "karla_flores@example.com",
+      "id": "heavybutterfly753",
+      "address": "Jr. Las Rosas 7152",
+      "firstName": "Karla",
+      "lastName": "Flores",
+      "phone": "905385224"
+    },
+    {
+      "email": "raul.vasquez@example.com",
+      "id": "smallleopard796",
+      "address": "Ampliación Sur Zapata 4598",
+      "firstName": "Fernando",
+      "lastName": "Vásquez",
+      "phone": "962353317"
+    }
+  ],
+  "suppliers": [
+    {
+      "businessName": "Sara Shop",
+      "description": "Profesional",
+      "email": "sara.pierre@example.com",
+      "id": "happyduck683",
+      "address": "Calle Micaela Bastidas 6390",
+      "firstName": "Sara",
+      "lastName": "Pierre",
+      "phone": "936166359"
+    },
+    {
+      "businessName": "Jeanne's Look",
+      "description": "Profesional",
+      "email": "jeanne.stevens@example.com",
+      "id": "orangeswan658",
+      "address": "Avenida Girasoles 450",
+      "firstName": "Jeanne",
+      "lastName": "Stevens",
+      "phone": "907088011"
+    },
+    {
+      "businessName": "Moda Medica",
+      "description": "Profesional",
+      "email": "tracy.dantuma@example.com",
+      "id": "silverkoala461",
+      "address": "Jr. 24 de mayo 3107",
+      "firstName": "Tracy",
+      "lastName": "Dantuma",
+      "phone": "999621148"
+    },
+    {
+      "businessName": "D'Shana",
+      "description": "Profesional Y Responsable",
+      "email": "shanaya.prajapati@example.com",
+      "id": "goldenostrich230",
+      "address": "Calle Nuevo Vista 785",
+      "firstName": "Shana",
+      "lastName": "Parra",
+      "phone": "986236773"
+    }
+  ],
+  "category": [
+    {
+      "id": "001",
+      "category": "Scrubs",
+      "description": "Comfortable scrubs, many colors and sizes",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779"
+    },
+    {
+      "id": "002",
+      "category": "Pants",
+      "description": "Comfortable surgery pants, many colors and sizes",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779"
+    },
+    {
+      "id": "003",
+      "category": "Coats",
+      "description": "Comfortable medical coats, many colors and sizes",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779"
+    },
+    {
+      "id": "004",
+      "category": "Cotton Scrubs",
+      "description": "Comfortable cotton scrubs, many colors and sizes",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779"
+    },
+    {
+      "id": "005",
+      "category": "Sanitary jackets",
+      "description": "Comfortable sanitary jackets, many colors and sizes",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "code": "w-sc-001",
+      "title": "scrub",
+      "gender": "women",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779",
+      "description": "scrub for women",
+      "material": "polyester and cotton",
+      "price": "22.00",
+      "color": "green,blue,orange",
+      "quantity": 26,
+      "stock": 15,
+      "inventoryStatus": "INSTOCK"
+    },
+    {
+      "id": 2,
+      "code": "m-sc-001",
+      "title": "cotton scrub",
+      "gender": "men",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779",
+      "description": "comfortable cotton scrub for women",
+      "material": "cotton",
+      "price": "25.00",
+      "color": "green,blue,white,grey,black",
+      "quantity": 26,
+      "stock": 12,
+      "inventoryStatus": "INSTOCK"
+    },
+    {
+      "id": 3,
+      "code": "m-un-001",
+      "title": "uniforms",
+      "gender": "men",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779",
+      "description": "health uniforms",
+      "material": "synthetic",
+      "price": "14.00",
+      "color": "green,blue,white",
+      "quantity": 30,
+      "stock": 5,
+      "inventoryStatus": "INSTOCK"
+    },
+    {
+      "id": 4,
+      "code": "w-sc-002",
+      "title": "cotton scrub",
+      "gender": "women",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779",
+      "description": "cotton scrub for women",
+      "material": "cotton",
+      "price": "30.00",
+      "color": "green,blue",
+      "quantity": 40,
+      "stock": 32,
+      "inventoryStatus": "OUTOFSTOCK"
+    },
+    {
+      "id": 5,
+      "code": "w-co-001",
+      "title": "coat",
+      "gender": "women",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779",
+      "description": "doctor's coat",
+      "material": "polyester and cotton",
+      "price": "22.00",
+      "color": "green,blue,white,orange",
+      "quantity": 16,
+      "stock": 22,
+      "inventoryStatus": "INSTOCK"
+    },
+    {
+      "id": 6,
+      "code": "w-ja-001",
+      "title": "jacket",
+      "gender": "women",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779",
+      "description": "jacket for women",
+      "material": "cotton",
+      "price": "40.00",
+      "color": "white",
+      "quantity": 24,
+      "stock": 10,
+      "inventoryStatus": "OUTOFSTOCK"
+    },
+    {
+      "id": 7,
+      "code": "w-pa-001",
+      "title": "pants",
+      "gender": "women",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779",
+      "description": "blue scrub for women",
+      "material": "polyester and cotton",
+      "price": "22.00",
+      "color": "green,blue,white,orange",
+      "quantity": 16,
+      "stock": 15,
+      "inventoryStatus": "INSTOCK"
+    },
+    {
+      "id": 8,
+      "code": "m-sp-001",
+      "title": "surgical pants",
+      "gender": "men",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779",
+      "description": "synthetic pants",
+      "material": "synthetic",
+      "price": "15.00",
+      "color": "green,blue",
+      "quantity": 16,
+      "stock": 20,
+      "inventoryStatus": "LOWSTOCK"
+    },
+    {
+      "id": 9,
+      "code": "m-pa-002",
+      "title": "pants",
+      "gender": "men",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779",
+      "description": "pants for women",
+      "material": "cotton",
+      "price": "22.00",
+      "color": "blue,white,black",
+      "quantity": 16,
+      "stock": 6,
+      "inventoryStatus": "LOWSTOCK"
+    },
+    {
+      "id": 10,
+      "code": "m-sc-002",
+      "title": "scrubs",
+      "gender": "men",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779",
+      "description": "blue scrub for women",
+      "material": "antibacterial microfiber",
+      "price": "22.00",
+      "color": "white",
+      "quantity": 10,
+      "stock": 14,
+      "inventoryStatus": "INSTOCK"
+    },
+    {
+      "id": 11,
+      "code": "w-sj-003",
+      "title": "sanitary jackets",
+      "gender": "women",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779",
+      "description": " jackets for women",
+      "material": "antibacterial microfiber",
+      "price": "32.00",
+      "color": "green,blue,white,orange",
+      "quantity": 16,
+      "stock": 17,
+      "inventoryStatus": "LOWSTOCK"
+    },
+    {
+      "id": 12,
+      "code": "m-sj-002",
+      "title": "sanitary jackets",
+      "gender": "men",
+      "photoUrl": "https://norvil-web.storage.googleapis.com/cms_multimedia/cms_medias/files/000/002/134/tablet_webp/1739_593.c141.webp?1615459779",
+      "description": " jackets for men",
+      "material": "antibacterial microfiber",
+      "price": "32.00",
+      "color": "green,blue,white,orange",
+      "quantity": 16,
+      "stock": 4,
+      "inventoryStatus": "INSTOCK"
+    }
+  ]
+}
